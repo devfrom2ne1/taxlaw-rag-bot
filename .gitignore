@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# pyenv / virtualenv
+.python-version
+venv/
+env/
+.venv/
+ENV/
+.rag-llm-application/
+.env
+
+# VSCode
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
